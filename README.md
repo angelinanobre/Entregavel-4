@@ -68,6 +68,18 @@ Entregavel-4/
 └── README.md
 ```
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/02c07015-cba6-4c28-9a0e-1fea3e34605d" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/22e0df9e-d10a-4a3a-af8e-73c6f24e5034" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d76016d-becd-45ed-8d97-12678d2cee54" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5231027e-1130-46bd-9771-af03a6e54fa1" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0a50de1d-e2fa-4805-87b8-60684aa92f45" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0bb92c4b-b12c-4a82-8480-8cd707d29386" />
+
 ## Autor
 
 Angelina Nobre
